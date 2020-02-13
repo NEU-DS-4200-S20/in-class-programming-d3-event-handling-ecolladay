@@ -1,6 +1,6 @@
 # Assignment — D3 Event Handling
 
-Link to your GitHub pages website: `[insert your hyperlink here]`
+Link to your GitHub pages website: (here)[https://github.com/NEU-DS-4200-S20/in-class-programming-d3-event-handling-ecolladay]
 
 # Aim of the assignment
 
